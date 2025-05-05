@@ -31,7 +31,7 @@ A comprehensive bilingual (Arabic/English) radiology diagnostic platform that co
 
 ## System Architecture
 
-![System Architecture](Diagram.png)
+![System Architecture](Digram.png)
 
 ## Technical Architecture
 
