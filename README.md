@@ -29,6 +29,10 @@ A comprehensive bilingual (Arabic/English) radiology diagnostic platform that co
 - 📈 Performance optimization
 - 🔐 Role-based access control
 
+## System Architecture
+
+![System Architecture](Diagram.png)
+
 ## Technical Architecture
 
 ### Frontend
